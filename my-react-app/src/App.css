@@ -10,8 +10,8 @@
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 8px;
-  background-color: #fff;
-  font-family: 'Courier New', monospace;
+  background-color: #ffffff;
+  font-family: 'Times New Roman', monospace;
 }
 
 .signup-form {
@@ -31,7 +31,7 @@ textarea {
 }
 
 button {
-  background-color: #b4eccd;
+  background-color: #7d50de;
   color: white;
   padding: 10px 15px;
   border: none;
